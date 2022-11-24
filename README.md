@@ -69,7 +69,6 @@ Adobe Color was used to create a colour pattern to find the right shade of green
 
 ![Colour swatches](https://github.com/mihaidouss/carlsberg-group/blob/master/img/mobile.png "Color Pattern")
 
-
 ### Wireframes
 
 Carlsberg Group's website is a single page site. A single page design was chosen because the website has a narrow focus and is purely informational. Furthermore it's ideal for a mobile first design and users will have less clicking to do to find the information they need. 
@@ -90,7 +89,7 @@ I decided to change Playfair Display to [Roboto Slab](https://fonts.google.com/s
 
 ### Imagery
 
-The website uses strong and impactful Beers imagery to reinforce Carlsberg product offering and to also appeal to the website user. These images were sourced from [Pexels](www.carlsberggroup.com) and are referenced in the code. In addition, the images give structure and dimension to the website and help provide the user with a positive user experience. The size and positioning of these images varies depending on the screen size. 
+The website uses strong and impactful Beers imagery to reinforce Carlsberg product offering and to also appeal to the website user. These images were sourced from [Carlsberg](www.carlsberggroup.com) and are referenced in the code. In addition, the images give structure and dimension to the website and help provide the user with a positive user experience. The size and positioning of these images varies depending on the screen size. 
 
 Lots of white space was used to help structure and organise the content and images on the page, improve the user experience and legibility of text on the site.
 
@@ -113,7 +112,6 @@ The hero image sets the scene for Carlsberg's product offering by displaying a l
 It includes a CTA which directs users to the Head Office Opening Hours/ Contact Us section of the website. The text displayed shortens down to just the H1 heading on mobile devices so as not to obstruct the users view of the attractive Beer image.
 
 > As a first-time visitor, I want to see a visually pleasing website with eye-catching Beer related imagery to entice me to buy or to taste
-
 
 **Section 3 - Carousel**
 The carousel section offers the user a collection of the available carlsberg beers to buy. when the user hover the mouse on each image more information about the beer will appears to cover the picture.
@@ -160,7 +158,6 @@ Users would like to have a newsletter to sign up to which provides them which in
 * [GitHub](https://github.com/)
     * GitHub is the hosting site used to store the source code for the Website
 
-
 * [balsamiq](https://balsamiq.com/wireframes/)
     * balsamiq was used to create low-fidelity wireframes of the website
 
@@ -200,7 +197,6 @@ Users would like to have a newsletter to sign up to which provides them which in
 * [Google Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools) 
     * Chrome Developer Tools was used to test the site's responsiveness on different devices and to debug the code
 
-
 #### Problems Encountered
 
 * A number of issues were picked up for the styling of the iFrame for the embedded Google Map. It specified that the elements used were obsolete and CSS should be used instead. This issue was fixed by moving the styling from the html file to the css file and removing the unused styles
@@ -212,7 +208,6 @@ Users would like to have a newsletter to sign up to which provides them which in
 #### Browsers
 
 The website was tested across different browsers including Google Chrome and firefox. It rendered well on both browsers and worked as intended.
-
 
 ### Code and Guiding Resources
 1. Sourced code for navbar from Bootstrap - https://getbootstrap.com/docs/4.0/components/navbar/

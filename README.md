@@ -84,7 +84,7 @@ The fonts originally chosen for this website were [Roboto](https://fonts.google.
 based on some google search based on commercially with product recommended font. However, once I commenced building the site, 
 I didn't feel that Playfair Display tied into the branding I had in mind for Carlsberg Beer - a tasty beer who's knowledgeable about their taste.
 
-I trialed new fonts using Google Fonts and Google Chrome Developer tools to view sample text from The Leafy Bean's website in various fonts before applying them to the website. Furthermore, I took guidance from Google Font's "Popular Pairings" to find new fonts.  
+I trialed new fonts using Google Fonts and Google Chrome Developer tools to view sample text from Carlsberg's website in various fonts before applying them to the website. Furthermore, I took guidance from Google Font's "Popular Pairings" to find new fonts.  
 
 I decided to change Playfair Display to [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab?query=roboto) instead. Roboto Slab offers a more fun font with its friendly and open curves, versus Playfair which has a more vintage feel to it. 
 

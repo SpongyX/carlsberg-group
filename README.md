@@ -29,7 +29,7 @@
 ## Purpose
 
 I found that Carlsberg Group website focus on their different beer types, while the best Beer for me is Carlsberg.
-Its a fully responsive website which allow the Carlsberg beer lovers find their prefered beer taste. 
+Its a fully responsive website which allow the Carlsberg beer lovers find their preferred beer taste. 
 They can find answers for the most asked questions by customers.
 They can find all upcomming events for carlsberg beer only.
 

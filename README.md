@@ -44,29 +44,28 @@ Please note, this website is not related to Carlsberg group, its a personal proj
 #### First-time Visitor Goals
 
 * As a first-time visitor, I want to be able to navigate through the website easily on mobile to find what I’m looking for
-* As a first-time visitor, I want to see a visually pleasing website with eye-catching coffee related imagery to entice me to buy
+* As a first-time visitor, I want to see a visually pleasing website with eye-catching beer related imagery to entice me to buy and taste
 * As a first-time visitor, I want to locate their social media links to see if they have a large social following and whether they're well-rated
  
 #### Returning Visitor Goals
 
-* As a returning visitor, I want to find information about their takeaway service 
-* As a returning visitor, I want to check the shop’s opening hours during the COVID-19 restrictions
-* As a returning visitor, I want to see information about the quality of their coffee beans
+* As a returning visitor, I want to find information about their new items and services 
+* As a returning visitor, I want to check the shop’s opening hours of the company
+* As a returning visitor, I want to see information about the quality of their brews
 
 #### Frequent Visitor Goals
 
-* As a frequent visitor, I want to see if they take reusable cups
-* As a frequent visitor, I want to check to see if they have a loyalty scheme
-* As a frequent visitor, I want to read about the company to establish whether they're an independent coffee shop or a chain
+* As a frequent visitor, I want to see if they launch new brews
+* As a frequent visitor, I want to check to see if they respond to customer questions.
 
 ## Design 
 
 ### Colour Scheme
-The two main colours used across the website are an off-white and brown to tie in with The Leafy Bean's product offering - coffee. Furthermore, a dark grey was used for the paragraph text, instead of black, to improve its contrast and readability on screens.
+The two main colours used across the website are an white and green to tie in with TCarlsberg's product offering - beers. Furthermore, a dark grey was used for the paragraph text, instead of black, to improve its contrast and readability on screens.
 
-Adobe Color was used to create a colour swatch to find the right shade of brown for the site. A dark brown (Hex Code #695138) was used for the H2 headings and a lighter shade of brown (Hex Code #8f6f4d) was used for icons and buttons. 
+Adobe Color was used to create a colour pattern to find the right shade of green for the site. A dark green was used for the H1 headings and a lighter shade of green was used for icons and buttons. 
 
-**Adobe Color Swatch:**
+**Adobe Color Pattern:**
 
 ![Colour swatches](https://github.com/mihaidouss/carlsberg-group/blob/master/img/mobile.png "Color Pattern")
 
@@ -78,9 +77,6 @@ Carlsberg Group's website is a single page site. A single page design was chosen
 Please see the wireframes below for the varying devices:
 
 * [Wireframe](https://github.com/mihaidouss/carlsberg-group/blob/master/wireframe/CarlsbergGroup%20wireframe.pdf)
-
-A high-fidelity mockup for mobile was also created using Adobe Illustrator to trial the use of colour and to allow for better visualisation of how the website would look prior to commencing coding. 
-* [High-fidelity mobile mockup](https://github.com/JessicaJuliet/the-leafy-bean/blob/d62452db8b21e054deae33caea1cf9dfdeb1d65a/assets/wireframes/hifi-mobile-mockup.png)
 
 ### Typography
 

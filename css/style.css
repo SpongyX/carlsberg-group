@@ -1,0 +1,330 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+body::before{
+  content:  '';
+  display: block;
+  height: 60px;
+}
+.logo {
+width: 180px;
+}
+.blog-home5 {
+  font-family: "Montserrat", sans-serif;
+	color: #8d97ad;
+  font-weight: 300;
+}
+
+.blog-home5 h1, .blog-home5 h2, .blog-home5 h3, .blog-home5 h4, .blog-home5 h5, .blog-home5 h6 {
+  color: #3e4555;
+}
+
+.blog-home5 .card-title {
+	font-size: 18px;
+}
+
+.blog-home5 .subtitle {
+    color: #8d97ad;
+    line-height: 24px;
+}
+
+.blog-home5 .card.card-shadow {
+    -webkit-box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+    box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+}
+
+.blog-home5 .b-h-box .card-img-overlay {
+  bottom: 0px;
+  top: auto;
+  -webkit-transition: 0.2s ease-in;
+  -o-transition: 0.2s ease-in;
+  transition: 0.2s ease-in;
+  height: 55%;
+}
+
+.blog-home5 .b-h-box .card-title {
+    color: #ffffff;
+}
+
+.blog-home5 .b-h-box {
+	color: #ffffff;
+}
+
+.blog-home5 .b-h-box .card-text {
+  display: none;
+}
+
+.blog-home5 .b-h-box:hover {
+  color: #8d97ad;
+}
+
+.blog-home5 .b-h-box:hover .card-img-overlay {
+  height: 100%;
+  background: #ffffff;
+  border: 3px solid rgba(120, 130, 140, 0.13);
+}
+
+.blog-home5 .b-h-box:hover .card-title {
+  color: #263238;
+  margin: 15px 0;
+}
+
+.blog-home5 .b-h-box:hover .card-text {
+  display: block;
+}
+.card-img{
+  filter: brightness(0.4);
+}
+
+
+.blog-home5 .font-14 {
+	font-size: 14px;
+}
+
+@media (max-width:768px) {
+	.blog-home5 .b-h-box .card-img-overlay {
+		height: 40%;
+	}
+}
+
+
+iframe {
+width: 100%; 
+height: 350px;
+border: none;
+}
+
+
+
+  .carousel-inner {
+    padding: 1em;
+  }
+  .carousel-control-prev,
+  .carousel-control-next {
+    background-color: gray;
+    width: 5vh;
+    height: 5vh;
+    border-radius: 50%;
+    top: 60%;
+    transform: translateY(-50%);
+  }
+
+
+
+  a{
+    text-decoration: none;
+}
+.wrapper{
+    padding: 50px 0 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.services{
+    width: 1100px;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+.single-img{
+    border-radius: 10px;
+    /* background-color:rgb(1, 255, 5); */
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: nowrap;
+    width: 325px;
+    height: 450px;
+    overflow: hidden;
+    box-shadow: 5px 5px 10px  rgb(255, 255, 255);
+    transform: translate(0, 0);
+    transition: .3s;
+}
+.single-img:hover{
+    transform: translate(0, -9px);
+}
+.img-one{
+    background-image: url("/img/c1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.img-two{
+    background-image: url("/img/c2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.img-three{
+    background-image: url("/img/c3.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.img-four{
+  background-image: url("/img/c4.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.img-five{
+  background-image: url("/img/c5.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.img-six{
+  background-image: url("/img/c6.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.img-seven{
+  background-image: url("/img/c7.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.img-eight{
+  background-image: url("/img/c8.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.img-nine{
+  background-image: url("/img/c9.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.img-text{
+    background: linear-gradient(to top,rgba(255,255,255,0.9),rgba(255,255,255,0));
+    padding: 0 10px 5px 10px;
+    width: 100%;
+    height: auto;
+    position: relative;
+    transform: translate(0, 110px);
+    line-height: 25px;
+    transition: 0.5s ease;
+    display: inline-block;
+    text-align: center;
+    color: #fff;
+}
+.img-text h4{
+    line-height: 15px;
+    padding: 0;
+    margin: 16px 0;
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 25px;
+}
+.services button{
+    background: #252525;
+    color: #fff;
+    padding: 10px 35px;
+    border: none;
+    border-radius: 50px;
+    line-height: 14px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.single-img:hover .img-text{
+    transform: translate(0, 0);
+}
+#faq-h1 {
+  letter-spacing: 5px;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 700;
+  
+}
+#carousel-h1{
+  letter-spacing: 5px;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 700;
+  
+
+}
+@media (max-width: 991px){
+    .wrapper{
+        padding: 0;
+    }
+    .services{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    a{
+        margin-bottom: 35px;
+    }
+}
+#events {
+   /* Image source: https://www.peakpx.com/en/hd-wallpaper-desktop-agvvx  */
+      background-color: #025632;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      min-height: 600px;
+      position: relative;
+      left: 0;
+      right: 0;
+}
+
+
+#faq {
+  background: url("/img/wp1977164-carlsberg-wallpapers.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 600px;
+  position: relative;
+  left: 0;
+  right: 0;
+}
+
+#carousel {
+  background-color: #025632;
+}
+
+.footer {
+  line-height: 50px;
+  color: #fafafa;
+  font-size: 15px;
+  background-color: #0A8754;
+}
+
+footer .fontawesome-icons {
+  color: #fafafa;
+  padding: 0 20px 0 0;
+}
+
+
+footer .contact-number, footer .contact-email {
+  color: #fafafa;
+}
+
+#footer-email a:hover {
+  color: #fafafa;
+}
+
+.social-icon {
+  font-size: 40px;
+  padding: 15px 30px 0 0;
+}
+
+.fa-twitter-square:hover, .fa-instagram:hover {
+  color: #fafafa;
+}
+
+.contact-footer {
+  line-height: 40px;
+}
+
+.logo-footer {
+  padding: 25px 0 15px 0; 
+  width: 200px;
+}
+
+a {
+  color: inherit
+}
+
+
+
+
+
+
+
+
+
+

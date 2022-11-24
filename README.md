@@ -189,12 +189,6 @@ Users would like to have a newsletter to sign up to which provides them which in
 * JavaScript
     * JavaScript was used to create interactive elements such as the hamburger icon
 
-*  [Am I Responsive](http://ami.responsivedesign.is/#) 
-    * Am I Responsive was used to test the website's responsiveness across different screen sizes
-
-* [Responsinator](https://www.responsinator.com/)
-    * Responsinator was used to test the website's responsiveness across different screen sizes
-
 * [Google Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools) 
     * Chrome Developer Tools was used to test the site's responsiveness on different devices and to debug the code
 

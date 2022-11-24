@@ -126,17 +126,18 @@ The About Section offers the user more information about Carlsberg Group. It als
 
 
 
-**Section 5 - events**
+**Section 5 - Events**
 
 Carlsberg Group frequently launch events for the beer lovers. in this section the visitor will always find a different events with different times.
 
 As a calsberg lover: I want to always find new events and im ready to join
 
-**Section 6 - find us**
+**Section 6 - Find us**
+
 The Opening Hours/ Contact Us section includes details of Carlsberg's head office opening hours. It also includes an embedded Google map to help users find the shop's location.
 it also offers a simple contact form to allow the user to send a message to the shop with any queries they may have. The fields are all required and it will not allow a user to submit it unless the email input is valid (contains @). The email listed above the form is clickable and contains a mailto link.
 
-**Section 7 - faq**
+**Section 7 - Faq**
 Frequently asked question is a section where Carlsberg lover alwasy can find the answers for their questions. it offer different types of questions: 
 1- questions about the product and origins
 2- questions about the product quality

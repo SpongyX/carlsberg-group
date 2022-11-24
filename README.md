@@ -1,4 +1,4 @@
-# carlsberg-group
+# Carlsberg Group
 
 ## Table of Contents
 
